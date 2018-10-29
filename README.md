@@ -1,9 +1,13 @@
 # Tank
 AI Program for Tank Using Separately Deep-Q-Learning and RL+MCTS (Ongoing)
 
+
+
 Tank_Solution3.1: 
 
 Using Deep-Q-Learning described in https://arxiv.org/abs/1312.5602
+
+
 
 Update:
 
@@ -13,9 +17,13 @@ Update:
 
 √ Give tank a reward when marching forward to make rewards more dense
 
+
+
 Tank_Solution4:
 
 Using RL and MCTS described in https://www.nature.com/articles/nature24270?sf123103138=1
+
+
 
 Update:
 
